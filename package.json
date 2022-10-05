@@ -1,13 +1,12 @@
 {
-  "name": "PK118COM",
+  "name": "MTHAI2000WEB",
   "theme": "syntax",
   "version": "0.0.3",
-  "description": "PAKYOK118 เว็บพักยก118 มวยพักยกระบบออโต้ ที่ดีที่สุด ที่นี่ @PK118",
+  "description": "มวยไทย2000 ข้อมูลมวยรวดเร็ว เรตมวย ครบถ้วนต้องที่นี่",
   "keywords": [
-    "PK159",
-     "พักยก159",
-     "PAKYOK159",
-     "PK159.COM"
+    "เว็บมวยไทย2000",
+     "มวยไทย2000",
+     "muaythai2000"
   ],
   "repository": "https://github.com/Richchy/PK118.git",
   "license": "MIT",
